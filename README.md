@@ -5,8 +5,7 @@
 **Contact Information:**
 - Personal Blog: [aspektr.github.io](https://aspektr.github.io/public-blog/)
 - Location: Moscow
-- Citizenship: Russia
-- Not ready to relocate, open to occasional business trips
+- [astrahaninn@gmail.com](mailto:astrahaninn@gmail.com)
 
 ---
 
@@ -18,9 +17,6 @@
 - Leadership of analytical and project teams
 - Implementation of corporate data platforms and digital business transformation
 
-**Employment Type:** Full-time, part-time, project-based work  
-**Work Schedule:** Full-time, flexible schedule, remote work  
-**Preferred Commute Time:** Within one hour  
 
 ---
 
